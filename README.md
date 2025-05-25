@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My real name is Osama Al Lami, I'm a pharmacist, programmer, musician, Forex automated strategy builder, and businessman who is always willing to create cool and profitable stuff.
+## You can reach me at osamalami@gmail.com.
 
 <!--
 **lamicode/lamicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
