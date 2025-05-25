@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My real name is Osama Al Lami, I'm a pharmacist, programmer, musician, Forex automated strategy builder, and a businessman who is always willing to create cool and profitable stuff.
+## My real name is Osama Al Lami, I'm a pharmacist, programmer, musician, forex professional, and a businessman who is always willing to create cool and profitable stuff.
 ## You can reach me at osamalami@gmail.com.
 
 <!--
